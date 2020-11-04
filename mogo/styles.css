@@ -221,7 +221,6 @@ body {
     transition: transform .2s linear;
 }
 
-
 .nav-toggle__item::before {
     top: -8px;
 }
@@ -241,8 +240,6 @@ body {
     transform: rotate(-45deg)
     translateX(-2.6px);
 }
-
-
 
 /* Button*/ /* активная кнопка*/ 
 .btn {
@@ -329,9 +326,7 @@ body {
      background: #e6e6e6 url(images/blog/open_map.jpg)
      center no-repeat;
      background-size: cover;
- }    
-
-
+ }   
 
 .section__header {
     width: 100%;
@@ -437,7 +432,6 @@ body {
     font-size: 15px;
     font-style: italic;
     font-weight: 300;   
-
 }
 
 /* Statistics*/ /* для нижней полосы второго блока*/
@@ -551,7 +545,6 @@ margin-bottom: 5px;  /*расстояние заголовка от текста
 .accordion__item {
     border: 1px solid #e5e5e5;
     margin-bottom: 10px;
-
 }
 
 
@@ -570,7 +563,6 @@ margin-bottom: 5px;  /*расстояние заголовка от текста
     rotate(-45deg);
     margin-top: 5px;
 }
-
 
 .accordion__header {
     padding: 15px 20px 15px 65px;
@@ -602,7 +594,6 @@ margin-bottom: 5px;  /*расстояние заголовка от текста
     top: 20%;
     left: 20px;
     z-index: 1;
-
 }
 
 .accordion__content {
@@ -652,8 +643,7 @@ margin-bottom: 5px;  /*расстояние заголовка от текста
     font-style: italic;
     font-weight: 300;
     color: #999999;
-    margin-bottom: 15px;
-    
+    margin-bottom: 15px;    
 }
 .reviews__author {
     font-size: 24px;
@@ -699,9 +689,7 @@ margin-bottom: 5px;  /*расстояние заголовка от текста
     border-top: 2px solid #cccccc; 
     border-left: 2px solid #cccccc;
 ;
-    z-index: 1;
-
-    
+    z-index: 1;    
 }
 
 
@@ -770,7 +758,6 @@ margin-bottom: 5px;  /*расстояние заголовка от текста
 
 .works {
     display: flex;
-
 }
 
 .works__col {
@@ -844,7 +831,6 @@ font-style: italic;
     top: 0;
     left: 0;
     z-index: 1; 
-
 }
     
 
@@ -854,7 +840,6 @@ font-style: italic;
     display: flex;
     flex-wrap: wrap;  /* для перескока на новую строку*/
     margin-top: 70px;
-
 }
 
 .clients__item {
@@ -915,7 +900,6 @@ font-style: italic;
 
 .blog__item{
     width: 31%;
-
 }
 
 .blog__header {
@@ -981,7 +965,6 @@ font-style: italic;
     font-weight: 300;
     font-style: italic;
     color: #999;
-
 }
 .blog-stat__item {
     display: inline-block;
@@ -1007,7 +990,6 @@ font-style: italic;
     color: #f38181;
     font-weight: 700;
     text-transform: uppercase;
-
 }
 
 .map__title a {
@@ -1115,8 +1097,7 @@ font-style: italic;
     margin: 30px 0 ;
     font-size: 14px;
     color:#333;
-    text-transform: uppercase;
-    
+    text-transform: uppercase;    
 }
 
 
@@ -1126,7 +1107,6 @@ font-style: italic;
     display: flex;
     align-items: center;
     margin-bottom: 30px;
-
 }
 
 .blogs__content {
@@ -1161,13 +1141,11 @@ font-style: italic;
     justify-content: space-between;
     display: flex;
     flex-wrap: wrap;
-
 }
 
 .instagram__item {
     width: 33%;
-    border-bottom: 1px solid #fff;
-    
+    border-bottom: 1px solid #fff;    
 }
 
 .instagram__item img {
@@ -1228,7 +1206,6 @@ font-style: italic;
     font-family: 'Montserrat', sans-serif;
 
     transition: background .2s linear;
-
 }
 
 .subscribe__btn:hover {    /* при наводе меняет цвет кнопки*/
@@ -1247,22 +1224,14 @@ font-style: italic;
     font-size: 14px;
     color: #333;
     text-align: center;
-
 }
 .copyright span {
     color: #f38181;
 }
 
-
-
-
-
 /* Media */
 
-
-
 @media (max-width: 1230px) {
-
 
        /*Intro block*/
 
